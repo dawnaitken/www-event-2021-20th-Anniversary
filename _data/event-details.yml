@@ -3,10 +3,10 @@ dates: September 24, 2021
 #training: Augembuary 99-100
 #conference: Augembuary 101
 #registration_url: /www-event-example/register/
-logo_url: /assets/images/jason-leung-Xaanw0s0pMk-unsplash.jpg
+logo_url: /assets/images/OWASP_20th_Anniversary (1).svg
 #venue: 
 location: On-line 24-hour virtual event
-background: background.jpg
+background: /assets/images/jason-leung-Xaanw0s0pMk-unsplash.jpg
 color: 797979
 analytics: 
 #registration_open: false
