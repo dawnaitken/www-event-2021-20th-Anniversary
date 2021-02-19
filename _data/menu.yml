@@ -4,19 +4,19 @@
   items:
     #- title: Schedule
     #  url : /schedule/
-   # - title: Keynotes
-      url : /
+    #- title: Keynotes
+    #  url : /
     #- title: Training
     #  url : /
     - title: Call for Speakers
-      url : /
-- title: Sponsor
+     # url : /
+- title: SPONSOR
   items:
     - title: Sponsorship Opportunties
       url  : /sponsors/
     #- title: Volunteer
-   #  url  : /
-   # - title: Venue, Travel, & Lodging
-   #   url  : /
-  #  - title: Progam Team
+    #  url  : /
+    #- title: Venue, Travel, & Lodging
+    #  url  : /
+    #- title: Progam Team
     #  url  : /
