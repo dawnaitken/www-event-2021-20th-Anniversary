@@ -1,6 +1,6 @@
 - title: HOME
   url: /
-- title: PROGRAM
+- title: CALL FOR SPEAKERS
   items:
     #- title: Schedule
     #  url : /schedule/
@@ -8,7 +8,7 @@
     #  url : /
     #- title: Training
     #  url : /
-    - title: Call for Speakers
+    #- title: Call for Speakers
      # url : /
 - title: SPONSOR
   items:
