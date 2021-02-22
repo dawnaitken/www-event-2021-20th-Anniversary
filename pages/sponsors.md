@@ -18,7 +18,7 @@ Premier Celebration Sponsor
 Supporting Celebration Sponsor
  * Logo on the official 20th Anniversary website
  * Social Media Recognition on Foundation channels
- * Recogntion on transistion slide in betweent talks
+ * Recognition on transition slide in between talks
  * Cost: $4,000/USD
 
 Interested in Sponsoring and Supporting our 20th Anniversary Celebration Event? Please contact <kelly.santalucia@owasp.com> 
