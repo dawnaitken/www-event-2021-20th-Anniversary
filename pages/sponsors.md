@@ -21,4 +21,4 @@ Supporting Sponsor
  * Recogntion on transistion slide
  * Cost: $4,000/USD
 
-Interested in Sponsoring and Supporting our 20th Anniversary? Please contact <kelly.santalucia@owasp.com> 
+Interested in Sponsoring and Supporting our 20th Anniversary Celebration Event? Please contact <kelly.santalucia@owasp.com> 
