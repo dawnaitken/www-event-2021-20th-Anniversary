@@ -8,7 +8,7 @@ permalink: /sponsors/
 
 ## 20th Anniversary Event Sponsorship Opportunities 
 
-* **Premier Sponsor
+***Premier Sponsor
  * Report of all opt-in registrations 
  * Logo on the official 20th Anniversary website
  * Social Media Recognition on Foundation channels
