@@ -1,7 +1,7 @@
 ---
 
 title: Sponsors & Exhibitors
-layout: event_noheader
+layout: 20thAnniversary Banner Image Unsplash.com jason-leung-Xaanw0s0pMk-unsplash.jpg
 permalink: /sponsors/
 
 ---
