@@ -12,7 +12,7 @@ event_logo_x: 0
 event_logo_y: -65
 event_logo_w: 500
 event_logo_h: 500
-color: BBFFBB
+color: 02A1BC
 bodycolor: fff
 bigheader: true
 #analytics: 

@@ -1,7 +1,8 @@
-#- title: Coming Soon
- # price: TBD
+- title: Free Conference
+  price: "<a href='https://owasp.org/donate/'>Donations Welcome</a>"
+  info: 
  # info: '*See pricing*'
  # items: 
     #- title: Early Bird
      # price: TBD
-#      info: '*Contact Bob*         
+#      info: '*Contact Bob*'         
