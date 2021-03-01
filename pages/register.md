@@ -1,7 +1,7 @@
 ---
 
 title: Event Registration
-layout: event_noheader
+layout: event_noheader-2.0
 permalink: /register/
 
 ---
