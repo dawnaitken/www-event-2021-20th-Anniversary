@@ -1,6 +1,6 @@
 ---
 
-title: Global AppSec Example 2020
+title: OWASP 20th Anniversary
 layout: event-2.0
 
 ---
@@ -10,6 +10,3 @@ layout: event-2.0
 ***{{ site.data.event-details.venue }}***
 
 {{ site.data.event-details.pitch | markdownify }}
-
-
-
