@@ -1,5 +1,5 @@
-#- logo: /assets/images/OWASP-Combination-mark-r.png
- # name: OWASP Foundation 
-  #url: https://owasp.org/
-  #backgroundSize: 125px
-#  type: Premier
+- logo: /assets/images/sponsors/CISCOLOGO.png
+  name: Cisco Secure
+  url: http://cisco.com/go/secure
+  backgroundSize: 125px
+  type: Premier Sponsor
