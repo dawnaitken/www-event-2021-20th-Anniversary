@@ -1,5 +1,20 @@
+- logo: /assets/images/corp-member-logo/checkmarx.png
+  name: Checkmarx
+  url: https://www.checkmarx.com/
+  backgroundSize: 125px
+  type: Premier Sponsor
 - logo: /assets/images/sponsors/CISCOLOGO.png
   name: Cisco Secure
   url: http://cisco.com/go/secure
+  backgroundSize: 125px
+  type: Premier Sponsor
+- logo: /assets/images/corp-member-logo/IriusRisklogo.300x90.png
+  name: IriusRisk
+  url: https://iriusrisk.com/
+  backgroundSize: 125px
+  type: Premier Sponsor
+- logo: /assets/images/corp-member-logo/Snyk_logo.png
+  name: Snyk
+  url: https://snyk.io/
   backgroundSize: 125px
   type: Premier Sponsor
