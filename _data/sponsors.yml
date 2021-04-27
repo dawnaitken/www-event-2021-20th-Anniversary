@@ -8,6 +8,11 @@
   url: http://cisco.com/go/secure
   backgroundSize: 125px
   type: Premier Sponsor
+- logo: https://owasp.org//assets/images/corp-member-logo/hdivSecurityLogo.png 
+  name: Hdiv Security
+  url: https://hdivsecurity.com/
+  backgroundSize: 125px
+  type: Premier Sponsor
 - logo: https://owasp.org/assets/images/corp-member-logo/IriusRisklogo.300x90.png
   name: IriusRisk
   url: https://iriusrisk.com/
