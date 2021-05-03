@@ -23,6 +23,11 @@
   url: https://probely.com/
   backgroundSize: 125px
   type: Supporting Sponsor
+- logo: https://owasp.org/assets/images/sponsors/SecureCodeWarrior_logo_primary_black.png  
+  name: Secure Code Warrior
+  url: https://www.securecodewarrior.com/
+  backgroundSize: 125px
+  type: Premier Sponsor
 - logo: https://owasp.org/assets/images/corp-member-logo/Snyk_logo.png
   name: Snyk
   url: https://snyk.io/
