@@ -23,6 +23,11 @@
   url: https://iriusrisk.com/
   backgroundSize: 125px
   type: Premier Sponsor
+- logo: https://owasp.org/assets/images/corp-member-logo/nowsecure.png
+  name: NowSecure
+  url: https://www.nowsecure.com/
+  backgroundSize: 125px
+  type: Premier Sponsor
 - logo: https://owasp.org/assets/images/corp-member-logo/probely_logo_black.png
   name: Probely
   url: https://probely.com/
