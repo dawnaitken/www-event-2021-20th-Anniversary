@@ -28,6 +28,11 @@
   url: https://www.nowsecure.com/
   backgroundSize: 125px
   type: Premier Sponsor
+- logo: /assets/images/sponsors/Parasoft2018Logo_300x90.png
+  name: Parasoft
+  url: www.parasoft.com
+  backgroundSize: 125px
+  type: Supporting Sponsor
 - logo: https://owasp.org/assets/images/corp-member-logo/probely_logo_black.png
   name: Probely
   url: https://probely.com/
