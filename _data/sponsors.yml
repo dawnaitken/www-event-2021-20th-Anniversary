@@ -1,3 +1,8 @@
+- logo: /assets/images/sponsors/BSGBerezhaSecurityGroup.png
+  name: Berezha Security
+  url: https://bsg.tech/
+  backgroundSize: 125px
+  type: Supporting Sponsor
 - logo: https://owasp.org//assets/images/corp-member-logo/bugcrowd.png
   name: Bugcrowd
   url: https://www.bugcrowd.com	
