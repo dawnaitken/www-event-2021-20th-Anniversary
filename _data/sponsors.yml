@@ -58,6 +58,11 @@
   url: https://probely.com/
   backgroundSize: 125px
   type: Supporting Sponsor
+- logo: /assets/images/sponsors/RS_Logo_Logotype_RGB_300x90.png
+  name: Rohde & Schwarz Cybersecurity SAS
+  url: https://www.rohde-schwarz.com/cybersecurity
+  backgroundSize: 125px
+  type: Premier Sponsor
 - logo: /assets/images/sponsors/SecureCodeWarrior_logo_primary_black.png
   name: Secure Code Warrior
   url: https://www.securecodewarrior.com/
