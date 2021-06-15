@@ -23,6 +23,11 @@
   url: http://www.contrastsecurity.com
   backgroundSize: 125px
   type: Premier Sponsor
+- logo: https://owasp.org/assets/images/corp-member-logo/detectify.png
+  name: Detectify AB
+  url: https://detectify.com/
+  backgroundSize: 125px
+  type: Premier Sponsor
 - logo: https://owasp.org//assets/images/corp-member-logo/hdivSecurityLogo.png 
   name: Hdiv Security
   url: https://hdivsecurity.com/
