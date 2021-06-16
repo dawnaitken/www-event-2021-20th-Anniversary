@@ -88,3 +88,8 @@
   url: https://stackhawk.com
   backgroundSize: 125px
   type: Supporting Sponsor
+- logo: https://owasp.org//assets/images/corp-member-logo/veracode.png	
+  name: Veracode
+  url: https://www.veracode.com/
+  backgroundSize: 125px
+  type: Premier Sponsor
