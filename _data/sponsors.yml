@@ -1,3 +1,8 @@
+- logo: /assets/images/sponsors/adobe_corporate_vertical_lockup_red_rgb.png
+  name: Adobe
+  url: https://www.adobe.com/
+  backgroundSize: 125px
+  type: Premier Sponsor
 - logo: /assets/images/sponsors/BSGBerezhaSecurityGroup1.png
   name: Berezha Security
   url: https://bsg.tech/
