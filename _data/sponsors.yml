@@ -98,3 +98,8 @@
   url: https://www.veracode.com/
   backgroundSize: 125px
   type: Premier Sponsor
+- logo: https://owasp.org/assets/images/corp-member-logo/whitesource.png
+  name: WhiteSource Software
+  url: https://www.whitesourcesoftware.com/
+  backgroundSize: 125px
+  type: Premier Sponsor
