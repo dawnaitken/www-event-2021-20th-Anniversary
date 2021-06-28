@@ -68,6 +68,11 @@
   url: https://probely.com/
   backgroundSize: 125px
   type: Supporting Sponsor
+- logo: /assets/images/sponsors/ProtergoTransparent.png
+  name: Protergo 
+  url: https://protergo.id/
+  backgroundSize: 125px
+  type: Supporting Sponsor
 - logo: /assets/images/sponsors/RS_Logo_Logotype_RGB_300x90.png
   name: Rohde & Schwarz Cybersecurity SAS
   url: https://www.rohde-schwarz.com/cybersecurity
