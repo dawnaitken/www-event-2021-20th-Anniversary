@@ -1,7 +1,7 @@
 - title: HOME
   url: /
 - title: SNEAK PEEK
-  #items:
+  items:
     - title: Flagship Project Track
       url : https://soundcloud.com/owasp-podcast/owasp-flagship-projects-episode-01
       url : https://soundcloud.com/owasp-podcast/owasp-flagship-projects-episode-02
