@@ -25,5 +25,7 @@
 - title: SUPPORTERS
     #  url  : /
 - title: MEMORABILIA
-    #url: https://www.zazzle.com/store/owasp_foundation/products
+  items:
+    - title: 20th Anniversary Event Memorabilia
+      url: https://www.zazzle.com/store/owasp_foundation/products
     
