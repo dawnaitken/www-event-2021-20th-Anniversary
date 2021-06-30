@@ -18,4 +18,8 @@
   url: https://owasp.org/www-chapter-canberra/
   backgroundSize: 125px
   type: Chapter
--
+- logo: /assets/images/supporters/NagpuChapter.png
+  name: OWASP Nagpur Chapter
+  url: https://owasp.org/www-chapter-nagpur/
+  backgroundSize: 125px
+  type: Chapter
