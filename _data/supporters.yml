@@ -23,7 +23,7 @@
   url: https://owasp.org/www-chapter-nagpur/
   backgroundSize: 125px
   type: Chapter
-#- logo:
+- logo: OWASP Benchmark Project
   name: OWASP Benchmark Project
   url: https://owasp.org/www-project-benchmark/
   backgroundSize: 125px
