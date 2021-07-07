@@ -63,5 +63,10 @@
   url: https://owasp.org/www-chapter-luxembourg/
   backgroundSize: 125px
   type: Chapter
-  
+- logo: /assets/images/supporters/ZAPLogo.png
+  name: OWASP ZAP Project
+  url: https://owasp.org/www-project-zap/
+  backgroundSize: 125px
+  type: Project 
+ 
  
