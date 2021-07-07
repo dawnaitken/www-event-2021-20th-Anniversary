@@ -21,4 +21,4 @@ Supporting Celebration Sponsor
  * Recognition on transition slide in between talks
  * Cost: $4,000/USD
 
-Interested in Sponsoring and Supporting our 20th Anniversary Celebration Event? Please contact <kelly.santalucia@owasp.com> 
+Interested in Sponsoring and Supporting our 20th Anniversary Celebration Event? Please contact <events@owasp.com> 
