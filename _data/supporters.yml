@@ -53,5 +53,10 @@
   url: https://owasp.org/www-chapter-jakarta/
   backgroundSize: 125px
   type: Chapter
+- logo:
+  name: OWASP Colombo Chapter
+  url: https://owasp.org/www-chapter-colombo/
+  backgroundSize: 125px
+  type: Chapter
   
  
