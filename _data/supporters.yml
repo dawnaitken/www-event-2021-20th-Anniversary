@@ -68,5 +68,9 @@
   url: https://owasp.org/www-project-zap/
   backgroundSize: 125px
   type: Project 
- 
+- logo: 
+  name: OWASP Birmingham UK Chapter
+  url: https://owasp.org/www-chapter-birmingham-uk/
+  backgroundSize: 125px
+  type: Chapter
  
