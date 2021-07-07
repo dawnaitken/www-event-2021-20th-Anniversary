@@ -43,5 +43,10 @@
   url: https://owasp.org/www-chapter-ottawa/
   backgroundSize: 125px
   type: Chapter
+- logo:
+  name: OWASP Brisbane Chapter
+  url: https://owasp.org/www-chapter-brisbane/
+  backgroundSize: 125px
+  type: Chapter
   
  
