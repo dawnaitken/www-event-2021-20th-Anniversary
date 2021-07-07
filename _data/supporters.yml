@@ -58,5 +58,10 @@
   url: https://owasp.org/www-chapter-colombo/
   backgroundSize: 125px
   type: Chapter
+- logo:
+  name: OWASP Luxembourg Chapter
+  url: https://owasp.org/www-chapter-luxembourg/
+  backgroundSize: 125px
+  type: Chapter
   
  
