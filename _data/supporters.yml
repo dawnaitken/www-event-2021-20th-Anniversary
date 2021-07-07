@@ -48,5 +48,10 @@
   url: https://owasp.org/www-chapter-brisbane/
   backgroundSize: 125px
   type: Chapter
+- logo: /assets/images/supporters/JakartaChapter.png
+  name: OWASP Jakarta Chapter
+  url: https://owasp.org/www-chapter-jakarta/
+  backgroundSize: 125px
+  type: Chapter
   
  
