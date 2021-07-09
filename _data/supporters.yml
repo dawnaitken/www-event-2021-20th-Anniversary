@@ -73,4 +73,13 @@
   url: https://owasp.org/www-chapter-birmingham-uk/
   backgroundSize: 125px
   type: Chapter
- 
+- logo:
+  name: OWASP API Security Project
+  url: https://owasp.org/www-project-api-security/
+  backgroundSize: 125px
+  type: Project
+- logo:
+  name: OWASP Go Secure Coding Practices Guide
+  url: https://owasp.org/www-project-go-secure-coding-practices-guide/
+  backgroundSize: 125px
+  type: Project
