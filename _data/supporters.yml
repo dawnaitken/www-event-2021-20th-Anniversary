@@ -88,4 +88,9 @@
   url: https://owasp.org/www-chapter-belgium/
   backgroundSize: 125px
   type: Chapter
+- logo:
+  name: OWASP Cairo Chapter
+  url: https://owasp.org/www-chapter-cairo/
+  backgroundSize: 125px
+  type: Chapter
  
