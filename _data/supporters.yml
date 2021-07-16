@@ -93,4 +93,8 @@
   url: https://owasp.org/www-chapter-cairo/
   backgroundSize: 125px
   type: Chapter
- 
+- logo: /assets/images/supporters/Sofia Chapter Logo.png
+  name: OWASP Sofia Chapter
+  url: https://owasp.org/www-chapter-sofia/
+  backgroundSize: 125px
+  type: Chapter
