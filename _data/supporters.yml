@@ -98,3 +98,8 @@
   url: https://owasp.org/www-chapter-sofia/
   backgroundSize: 125px
   type: Chapter
+- logo: /assets/images/supporters/ModSecurityProjectLogo.png
+  name: OWASP ModSecurity Core Rule Set Project
+  url: https://owasp.org/www-project-modsecurity-core-rule-set/
+  backgroundSize: 125px
+  type: Project
