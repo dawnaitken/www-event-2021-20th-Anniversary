@@ -103,3 +103,8 @@
   url: https://owasp.org/www-project-modsecurity-core-rule-set/
   backgroundSize: 125px
   type: Project
+- logo: /assets/images/supporters/GermanChapter.png
+  name: German Chapter
+  url: https://owasp.org/www-chapter-germany/
+  backgroundSize: 125px
+  type: Chapter
