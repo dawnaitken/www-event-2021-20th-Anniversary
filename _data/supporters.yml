@@ -33,6 +33,13 @@
   url: https://owasp.org/www-project-antisamy/
   backgroundSize: 125px
   type: Project
+- logo:
+  name: OWASP New Zealand Chapter 
+  url: https://owasp.org/www-chapter-new-zealand/
+  backgroundSize: 125px
+  type: Chapter
+    
+  
 - logo: /assets/images/supporters/WSTG-Shield-400-Gradient.png
   name: OWASP Web Security Testing Guide
   url: https://owasp.org/www-project-web-security-testing-guide/
