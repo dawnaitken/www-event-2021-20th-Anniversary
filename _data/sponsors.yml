@@ -28,6 +28,11 @@
   url: http://www.contrastsecurity.com
   backgroundSize: 125px
   type: Premier Sponsor
+- logo: /assets/images/sponsors/DataDome.png
+  name: DataDome
+  url: https://datadome.co/
+  backgroundSize: 125px
+  type: Supporting Sponsor
 - logo: https://owasp.org/assets/images/corp-member-logo/detectify.png
   name: Detectify AB
   url: https://detectify.com/
